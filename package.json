@@ -1,0 +1,26 @@
+{
+  "name": "@tailify/eslint-config-react",
+  "version": "0.0.0",
+  "description": "Tailify's very own opinionated ESLint configuration for React",
+  "main": "lib/index.js",
+  "files": [
+    "lib/index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "tailify/eslint-config-react",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "license": "UNLICENSED",
+  "bugs": "https://github.com/tailify/eslint-config-react/issues",
+  "homepage": "https://github.com/tailify/eslint-config-react#readme",
+  "engines": {
+    "node": ">=8"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
