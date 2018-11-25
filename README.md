@@ -22,7 +22,7 @@ module.exports = {
 };
 ```
 
-*Note: We can omit the `/babel-preset` suffix since it is automatically assumed by Babel.*
+*Note: We can omit the `/eslint-config` suffix since it is automatically assumed by ESLint.*
 
 [build-status-image]: https://travis-ci.com/tailify/eslint-config-react.svg?branch=master
 [build-status-url]: https://travis-ci.com/tailify/eslint-config-react
