@@ -4,6 +4,7 @@
   "description": "Tailify's very own opinionated ESLint configuration for React",
   "main": "lib/index.js",
   "files": [
+    "lib/rules/*.js",
     "lib/index.js"
   ],
   "scripts": {
