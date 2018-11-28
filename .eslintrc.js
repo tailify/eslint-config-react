@@ -1,23 +1,20 @@
 'use strict';
 
+const { configs: jestConfig } = require('eslint-plugin-jest');
+
 module.exports = {
   root: true,
   env: {
-    jest: true,
     node: true,
   },
   extends: [
     'eslint:recommended',
-    'plugin:jest/recommended',
     'plugin:node/recommended',
   ],
   parserOptions: {
     sourceType: 'module',
   },
-  plugins: [
-    'jest',
-    'node',
-  ],
+  plugins: ['node'],
   rules: {
     'comma-dangle': ['error', 'always-multiline'],
     'indent': ['error', 2],
@@ -27,4 +24,13 @@ module.exports = {
     'semi': 'error',
     'sort-keys': 'error',
   },
+  overrides: [
+    {
+      files: ['**/__tests__/**', '**/*.test.js'],
+      ...jestConfig.recommended,
+      env: {
+        jest: true,
+      },
+    },
+  ],
 };
