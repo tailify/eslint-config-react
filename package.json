@@ -20,7 +20,7 @@
   "bugs": "https://github.com/tailify/eslint-config-react/issues",
   "homepage": "https://github.com/tailify/eslint-config-react#readme",
   "dependencies": {
-    "@tailify/eslint-config": "2.0.0",
+    "@tailify/eslint-config": "2.1.0",
     "eslint-config-airbnb": "17.1.0",
     "eslint-plugin-import": "2.14.0",
     "eslint-plugin-jsx-a11y": "6.1.2",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "eslint": "^5.9.0",
-    "eslint-plugin-jest": "^22.0.0",
+    "eslint-plugin-jest": "^22.1.0",
     "eslint-plugin-node": "^8.0.0",
     "jest": "^23.6.0"
   },
