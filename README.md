@@ -1,7 +1,7 @@
 # @tailify/eslint-config-react
 
 [![Build status][build-status-image]][build-status-url]
-[![Dependency status][dependency-status-image]][dependency-status-url]
+[![Greenkeeper][greenkeeper-image]][greenkeeper-url]
 [![Version][version-image]][version-url]
 
 > Tailify's very own opinionated ESLint configuration for React.
@@ -27,8 +27,8 @@ module.exports = {
 [build-status-image]: https://travis-ci.com/tailify/eslint-config-react.svg?branch=master
 [build-status-url]: https://travis-ci.com/tailify/eslint-config-react
 
-[dependency-status-image]: https://david-dm.org/tailify/eslint-config-react/master.svg
-[dependency-status-url]: https://david-dm.org/tailify/eslint-config-react
+[greenkeeper-image]: https://badges.greenkeeper.io/tailify/eslint-config-react.svg
+[greenkeeper-url]: https://greenkeeper.io
 
 [version-image]: https://img.shields.io/npm/v/@tailify/eslint-config-react.svg
 [version-url]: https://www.npmjs.com/package/@tailify/eslint-config-react
