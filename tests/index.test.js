@@ -2,7 +2,7 @@
 
 const eslint = require('eslint');
 
-it('should not contain invalid rules', () => {
+test('should not contain invalid rules', () => {
   const cli = new eslint.CLIEngine({
     configFile: './lib/index.js',
     useEslintrc: false,
