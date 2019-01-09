@@ -4,7 +4,7 @@
   "description": "Tailify's very own opinionated ESLint configuration for React",
   "main": "lib/index.js",
   "files": [
-    "lib/"
+    "lib"
   ],
   "scripts": {
     "lint": "eslint .",
@@ -27,17 +27,19 @@
     "eslint-plugin-react": "7.12.2"
   },
   "devDependencies": {
+    "@tailify/eslint-config-legacy": "^1.0.0",
+    "@tailify/prettier-config": "^1.0.0",
     "eslint": "^5.9.0",
-    "eslint-plugin-jest": "^22.1.0",
-    "eslint-plugin-node": "^8.0.0",
     "jest": "^23.6.0",
+    "prettier": "^1.15.0",
     "react": "^16.7.0"
   },
   "peerDependencies": {
-    "eslint": "^5.9.0"
+    "eslint": "^5.9.0",
+    "prettier": "^1.15.0"
   },
   "engines": {
-    "node": ">=8.3.0"
+    "node": ">=8.3"
   },
   "greenkeeper": {
     "commitMessages": {
