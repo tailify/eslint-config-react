@@ -8,9 +8,7 @@ test('should not contain invalid rules', () => {
     useEslintrc: false,
   });
 
-  const report = cli.executeOnText(
-    'module.exports = {};\n'
-  );
+  const report = cli.executeOnText('module.exports = {};\n');
 
   expect(report).toBeTruthy();
   expect(report.errorCount).toBe(0);
