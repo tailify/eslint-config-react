@@ -23,12 +23,12 @@
     "@tailify/eslint-config": "4.0.0",
     "eslint-config-airbnb": "17.1.0",
     "eslint-config-jest-enzyme": "7.0.2",
-    "eslint-plugin-import": "2.17.3",
+    "eslint-plugin-import": "2.18.0",
     "eslint-plugin-jsx-a11y": "6.2.3",
-    "eslint-plugin-react": "7.13.0"
+    "eslint-plugin-react": "7.14.3"
   },
   "devDependencies": {
-    "@tailify/eslint-config-legacy": "^2.0.0",
+    "@tailify/eslint-config-legacy": "^3.0.0",
     "@tailify/prettier-config": "^1.0.0",
     "eslint": "^5.9.0",
     "jest": "^24.7.0",
