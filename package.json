@@ -21,7 +21,6 @@
   "homepage": "https://github.com/tailify/eslint-config-react#readme",
   "dependencies": {
     "@tailify/eslint-config": "4.0.0",
-    "eslint-config-airbnb": "17.1.0",
     "eslint-config-jest-enzyme": "7.1.0",
     "eslint-plugin-import": "2.18.0",
     "eslint-plugin-jsx-a11y": "6.2.3",
