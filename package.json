@@ -24,7 +24,8 @@
     "eslint-config-jest-enzyme": "7.1.0",
     "eslint-plugin-import": "2.18.0",
     "eslint-plugin-jsx-a11y": "6.2.3",
-    "eslint-plugin-react": "7.14.3"
+    "eslint-plugin-react": "7.14.3",
+    "eslint-plugin-react-hooks": "1.6.1"
   },
   "devDependencies": {
     "@tailify/eslint-config-legacy": "^3.0.0",
