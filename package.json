@@ -20,8 +20,6 @@
   "bugs": "https://github.com/tailify/eslint-config-react/issues",
   "homepage": "https://github.com/tailify/eslint-config-react#readme",
   "dependencies": {
-    "@tailify/eslint-config": "4.0.0",
-    "eslint-plugin-import": "2.18.0",
     "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-react": "7.14.3",
     "eslint-plugin-react-hooks": "1.6.1"
