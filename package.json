@@ -22,7 +22,7 @@
   "dependencies": {
     "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-react": "7.14.3",
-    "eslint-plugin-react-hooks": "1.6.1"
+    "eslint-plugin-react-hooks": "2.0.1"
   },
   "devDependencies": {
     "@tailify/eslint-config-legacy": "^3.0.0",
