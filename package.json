@@ -21,7 +21,7 @@
   "homepage": "https://github.com/tailify/eslint-config-react#readme",
   "dependencies": {
     "eslint-plugin-jsx-a11y": "6.2.3",
-    "eslint-plugin-react": "7.16.0",
+    "eslint-plugin-react": "7.19.0",
     "eslint-plugin-react-hooks": "3.0.0"
   },
   "devDependencies": {
