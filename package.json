@@ -1,6 +1,6 @@
 {
   "name": "@tailify/eslint-config-react",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Tailify's very own opinionated ESLint configuration for React",
   "main": "lib/index.js",
   "files": [
