@@ -29,7 +29,7 @@
     "@tailify/prettier-config": "^2.0.2",
     "eslint": "^6.0.0",
     "eslint-plugin-jest": "^23.0.0",
-    "jest": "^26.0.0",
+    "jest": "^27.0.4",
     "prettier": "^2.0.1",
     "react": "^16.7.0"
   },
